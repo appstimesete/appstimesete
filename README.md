@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=appstimesete&theme=dark&&date_format=appstimesete" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=appstimesete&theme=dark" />
 </p>
 
 <p align="center">
