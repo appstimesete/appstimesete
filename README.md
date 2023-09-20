@@ -17,8 +17,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appstimesete&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appstimesete&theme=github_dark" alt="appstimesete" /></p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
