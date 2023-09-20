@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appstimesete&theme=github_dark" alt="Kamandlou" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appstimesete&theme=github_dark" alt="appstimesete" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
